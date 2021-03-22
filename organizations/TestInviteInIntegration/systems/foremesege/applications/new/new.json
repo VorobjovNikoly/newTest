@@ -1,0 +1,24 @@
+{
+  "identity": {
+    "id": "ce383cd7-ef86-487a-93bd-41bf161365ce",
+    "name": "new",
+    "description": "test"
+  },
+  "object": {
+    "parent": {
+      "id": "d01f4114-50e4-4a57-8694-904da3d41d40",
+      "name": "/organizations/TestInviteInIntegration/systems/foremesege"
+    },
+    "tags": [],
+    "documents": [],
+    "type": "Application",
+    "properties": [],
+    "history": {
+      "created": "2021-01-21T16:54:15.983",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-01-21T16:54:15.983",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": []
+    }
+  }
+}

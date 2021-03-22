@@ -1,0 +1,24 @@
+{
+  "identity": {
+    "id": "a939cda6-1224-4c2e-97bf-0eaeecbc44ce",
+    "name": "test",
+    "description": "test"
+  },
+  "object": {
+    "parent": {
+      "id": "27e8acc6-05d7-43f9-961f-b7792caf1a8c",
+      "name": "/organizations/TestInviteInIntegration/systems/testsys"
+    },
+    "tags": [],
+    "documents": [],
+    "type": "Application",
+    "properties": [],
+    "history": {
+      "created": "2021-03-04T06:01:49.79",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-03-04T06:01:49.79",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": []
+    }
+  }
+}

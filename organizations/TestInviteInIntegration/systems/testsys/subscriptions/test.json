@@ -1,0 +1,64 @@
+{
+  "identity": {
+    "id": "ddb6ae8d-06c7-4afa-b80a-9a05ce52987f",
+    "name": "test"
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "revision": 0
+  },
+  "object": {
+    "parent": {
+      "id": "27e8acc6-05d7-43f9-961f-b7792caf1a8c",
+      "name": "/organizations/TestInviteInIntegration/systems/testsys"
+    },
+    "tags": [],
+    "documents": [],
+    "type": "Subscription",
+    "properties": [],
+    "history": {
+      "created": "2021-03-01T07:16:38.45",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-03-01T07:17:56.793",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": [
+        {
+          "status": "Finalized",
+          "completed": "2021-03-01T07:17:56.153",
+          "completedBy": "m.vorobiov@spd-ukraine.com",
+          "completedByMessage": "/organizations/TestInviteInIntegration/systems/testsys/issues/5545/messages/1"
+        }
+      ]
+    }
+  },
+  "publication": {
+    "identity": {
+      "id": "69c2f759-7b1e-4b42-ad1c-89ad28476d85",
+      "name": "/organizations/TestInviteInIntegration/systems/testsys/publications/pub"
+    },
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "revision": 0
+    }
+  },
+  "datasets": [],
+  "interfaces": [],
+  "topologies": [
+    {
+      "identity": {
+        "id": "08f69a8c-e14a-4190-9e42-49731f17bc08",
+        "name": "test"
+      },
+      "version": {
+        "major": 1,
+        "minor": 0,
+        "revision": 0
+      },
+      "instanceNames": [
+        "test"
+      ]
+    }
+  ]
+}

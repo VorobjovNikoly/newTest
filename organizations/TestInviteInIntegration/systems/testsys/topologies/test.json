@@ -1,0 +1,47 @@
+{
+  "identity": {
+    "id": "08f69a8c-e14a-4190-9e42-49731f17bc08",
+    "name": "test"
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "revision": 0
+  },
+  "object": {
+    "parent": {
+      "id": "27e8acc6-05d7-43f9-961f-b7792caf1a8c",
+      "name": "/organizations/TestInviteInIntegration/systems/testsys"
+    },
+    "picture": "",
+    "tags": [],
+    "documents": [],
+    "type": "topology",
+    "usage": "Resource",
+    "access": "External",
+    "properties": [],
+    "elements": [],
+    "history": {
+      "created": "2021-03-01T07:14:20.55",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-03-01T07:15:17.15",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": []
+    },
+    "alias": ""
+  },
+  "instances": [
+    {
+      "identity": {
+        "id": "bd9662a4-a046-4bc6-9bdb-1c75df23efe5",
+        "name": "test",
+        "description": "test"
+      },
+      "order": 1,
+      "platform": "SQLServer",
+      "type": "Defined",
+      "configuration": {"reference":"/organizations/TestInviteInIntegration/datasets/Instance:SQLServer","value":{"Server":"","Connection":""}},
+      "units": "test"
+    }
+  ]
+}

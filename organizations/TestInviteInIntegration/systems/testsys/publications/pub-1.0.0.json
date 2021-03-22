@@ -1,0 +1,48 @@
+{
+  "identity": {
+    "id": "69c2f759-7b1e-4b42-ad1c-89ad28476d85",
+    "name": "pub"
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "revision": 0
+  },
+  "object": {
+    "parent": {
+      "id": "27e8acc6-05d7-43f9-961f-b7792caf1a8c",
+      "name": "/organizations/TestInviteInIntegration/systems/testsys"
+    },
+    "tags": [],
+    "documents": [],
+    "type": "Publication",
+    "properties": [],
+    "history": {
+      "created": "2021-02-26T07:50:00.36",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-03-01T07:15:39.433",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": []
+    }
+  },
+  "datasets": [],
+  "interfaces": [],
+  "topologies": [
+    {
+      "identity": {
+        "id": "08f69a8c-e14a-4190-9e42-49731f17bc08",
+        "name": "test"
+      },
+      "version": {
+        "major": 1,
+        "minor": 0,
+        "revision": 0
+      },
+      "reference": "/organizations/TestInviteInIntegration/systems/testsys/topologies/test/versions/1.0.0",
+      "instanceNames": [
+        "test"
+      ]
+    }
+  ],
+  "layouts": []
+}

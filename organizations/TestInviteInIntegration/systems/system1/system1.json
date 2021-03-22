@@ -1,0 +1,23 @@
+{
+  "identity": {
+    "id": "5b3d41c8-3e79-4932-adf3-c8c506d94181",
+    "name": "system1"
+  },
+  "object": {
+    "parent": {
+      "id": "f26d3e2c-ae72-4826-83c9-a197de50b352",
+      "name": "/organizations/TestInviteInIntegration"
+    },
+    "tags": [],
+    "documents": [],
+    "type": "System",
+    "properties": [],
+    "history": {
+      "created": "2021-01-14T17:54:11.88",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-01-14T17:54:11.88",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": []
+    }
+  }
+}

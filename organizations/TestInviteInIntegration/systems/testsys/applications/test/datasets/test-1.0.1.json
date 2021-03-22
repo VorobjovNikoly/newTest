@@ -1,0 +1,57 @@
+{
+  "identity": {
+    "id": "d77ec51b-11fa-453f-a912-128885ad4a6a",
+    "name": "test",
+    "description": "test"
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "revision": 1
+  },
+  "object": {
+    "parent": {
+      "id": "a939cda6-1224-4c2e-97bf-0eaeecbc44ce",
+      "name": "/organizations/TestInviteInIntegration/systems/testsys/applications/test"
+    },
+    "picture": "",
+    "tags": [],
+    "documents": [],
+    "type": "DataSet",
+    "usage": "Resource",
+    "access": "External",
+    "properties": [],
+    "elements": [],
+    "history": {
+      "created": "2021-03-04T06:03:57.807",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-03-04T13:10:15.647",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "mirrored": "2021-03-04T13:01:35.823",
+      "completions": [
+        {
+          "status": "Finalized",
+          "completed": "2021-03-04T13:10:15.317",
+          "completedBy": "m.vorobiov@spd-ukraine.com",
+          "completedByMessage": "/organizations/TestInviteInIntegration/systems/testsys/applications/test/issues/5552/messages/1"
+        }
+      ]
+    },
+    "lastApprovedVersion": {
+      "major": 1,
+      "minor": 0,
+      "revision": 0
+    },
+    "alias": ""
+  },
+  "external": true,
+  "structure": {
+    "fields": [],
+    "keys": []
+  },
+  "layouts": [],
+  "data": {
+    "records": [],
+    "examples": []
+  }
+}

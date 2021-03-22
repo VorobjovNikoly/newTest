@@ -1,0 +1,23 @@
+{
+  "identity": {
+    "id": "78eac1c9-eaa4-4a03-8ee3-886e82f49f35",
+    "name": "crepto"
+  },
+  "object": {
+    "parent": {
+      "id": "d01f4114-50e4-4a57-8694-904da3d41d40",
+      "name": "/organizations/TestInviteInIntegration/systems/foremesege"
+    },
+    "tags": [],
+    "documents": [],
+    "type": "Application",
+    "properties": [],
+    "history": {
+      "created": "2021-01-21T17:17:45.18",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-01-21T17:17:45.18",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": []
+    }
+  }
+}

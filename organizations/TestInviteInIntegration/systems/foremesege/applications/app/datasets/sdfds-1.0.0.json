@@ -1,0 +1,47 @@
+{
+  "identity": {
+    "id": "abd9f5aa-6ebc-4943-866e-239d92bf5a88",
+    "name": "sdfds",
+    "description": "ыапs"
+  },
+  "version": {
+    "major": 1,
+    "minor": 0,
+    "revision": 0
+  },
+  "object": {
+    "parent": {
+      "id": "b0772479-e690-4a13-950d-f178fb45eac2",
+      "name": "/organizations/TestInviteInIntegration/systems/foremesege/applications/app"
+    },
+    "tags": [],
+    "documents": [],
+    "type": "DataSet",
+    "usage": "Resource",
+    "properties": [],
+    "history": {
+      "created": "2021-03-11T07:28:19.37",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-03-11T07:28:29.097",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": [
+        {
+          "status": "Finalized",
+          "completed": "2021-03-11T07:28:28.203",
+          "completedBy": "m.vorobiov@spd-ukraine.com",
+          "completedByMessage": "/organizations/TestInviteInIntegration/systems/foremesege/applications/app/issues/5555/messages/1"
+        }
+      ]
+    }
+  },
+  "external": true,
+  "structure": {
+    "fields": [],
+    "keys": []
+  },
+  "layouts": [],
+  "data": {
+    "records": [],
+    "examples": []
+  }
+}

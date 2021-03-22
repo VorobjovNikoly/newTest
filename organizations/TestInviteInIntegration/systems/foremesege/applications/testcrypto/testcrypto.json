@@ -1,0 +1,24 @@
+{
+  "identity": {
+    "id": "130aaa20-ab9d-4b3c-84a4-da096160272c",
+    "name": "testcrypto",
+    "description": "test"
+  },
+  "object": {
+    "parent": {
+      "id": "d01f4114-50e4-4a57-8694-904da3d41d40",
+      "name": "/organizations/TestInviteInIntegration/systems/foremesege"
+    },
+    "tags": [],
+    "documents": [],
+    "type": "Application",
+    "properties": [],
+    "history": {
+      "created": "2021-01-21T17:12:50.473",
+      "createdBy": "m.vorobiov@spd-ukraine.com",
+      "updated": "2021-01-21T17:12:50.473",
+      "updatedBy": "m.vorobiov@spd-ukraine.com",
+      "completions": []
+    }
+  }
+}
