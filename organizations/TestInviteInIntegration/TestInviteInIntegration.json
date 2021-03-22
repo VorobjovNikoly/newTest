@@ -11,9 +11,9 @@
     "access": "External",
     "properties": [],
     "history": {
-      "created": "2021-03-22T17:19:28.237",
+      "created": "2021-03-22T17:21:17.233",
       "createdBy": "m.vorobiov@spd-ukraine.com",
-      "updated": "2021-03-22T17:19:28.237",
+      "updated": "2021-03-22T17:21:17.233",
       "updatedBy": "unknown",
       "completions": []
     },
@@ -24,6 +24,6 @@
     "user": "cJYnzlUU5Md9RHyNuirFKQSl/fsuZfpzT7EZZ61hmXftG/TNiifEsvjRaTyTFAmKoEFlCDDfmNe1CEtRJLQ1nmx3gk0yyESKJcZVHhoN80HcJ6rMNpbZ9PoqBB1HFvkTpX/IdrvM/+B+8Xc7nq27aCJsE8PGB+C9uWedjguZNCtN+9w0rmJVFM25AxZLCy+W9ZlS7Yqa7pXO52HlMTW6pSZGml0w9rjbYeCT2qJvBjZnRTUIwSEBko4XGylcDQwUMY37Ww4w7s068ALyhKNwpqJiCA9GSeTQCjNna4LKEteW+9+LNLdBRmwN8hgPHkGnSksdMQ/v+fJgxfiuxjJ0PA==",
     "password": "Y34SgE0LD88b0MlujVEKah3Zs8sho4d3iFcVdBe06Mv0IyJpX0/W50A6uuRCzWVT8sadtUHnSiaIwpHTJTxzV5+s/Ov15ONSMzZRfj8MT6LARxPSUJB6xPangbMYSzpKtSn2IXDmIC9WaKJqiZZSKausWyExwUBNd+q2IEa+l5TNMHtAFzx4KTiyLHQ2TJlP6DgKyszDaRWgA/Z5c8Gted5Pk7tvstsqmUYY4YlW/0r1jG7DtvAe/oCWZQNa43dnfRXdLwRxEz3Qrhls+1oLoOQ7Wd7v61dNpLe2v14sN9UxukT8Qhn0h79euloAYNVL0GLVFO8bcdQK4YsLlRb19Q==",
     "integration": true,
-    "status": ""
+    "status": "Failed to query https://apdax-metadata-service-dev.azurewebsites.net/api/organizations/TestInviteInIntegration/systems/testsys/publications/pub/versions: 500 (Internal Server Error)"
   }
 }
